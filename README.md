@@ -1,0 +1,1 @@
+# OpenDataFormat.JSON
